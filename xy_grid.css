@@ -1,0 +1,803 @@
+.Alert_x1_y1{
+   position: absolute;
+   top: 5px;
+   left: 5px;  
+
+}
+.Alert_x1_y2{   
+   position: absolute;
+   top: 40px;
+   left: 20px;
+}
+.Alert_x1_y3{   
+   position: absolute;
+   top: 60px;
+   left: 20px;
+}
+.Alert_x1_y4{   
+   position: absolute;
+   top: 80px;
+   left: 20px;
+}
+.Alert_x1_y5{   
+   position: absolute;
+   top: 100px;
+   left: 20px;
+}
+.Alert_x1_y6{   
+   position: absolute;
+   top: 120px;
+   left: 20px;
+}
+.Alert_x1_y7{   
+   position: absolute;
+   top: 140px;
+   left: 20px;
+}
+.Alert_x1_y8{   
+   position: absolute;
+   top: 160px;
+   left: 20px;
+}
+.Alert_x1_y9{   
+   position: absolute;
+   top: 180px;
+   left: 20px;
+}
+.Alert_x2_y1{   
+   position: absolute;
+   top: 5px;
+   left: 120px;
+}
+.Alert_x2_y2{   
+   position: absolute;
+   top: 40px;
+   left: 120px;
+}
+.Alert_x2_y3{   
+   position: absolute;
+   top: 60px;
+   left: 120px;
+}
+.Alert_x2_y4{   
+   position: absolute;
+   top: 80px;
+   left: 120px;
+}
+.Alert_x2_y5{   
+   position: absolute;
+   top: 100px;
+   left: 120px;
+}
+.Alert_x2_y6{   
+   position: absolute;
+   top: 120px;
+   left: 120px;
+}
+.Alert_x2_y7{   
+   position: absolute;
+   top: 140px;
+   left: 120px;
+}
+.Alert_x2_y8{   
+   position: absolute;
+   top: 160px;
+   left: 120px;
+}
+.Alert_x2_y9{   
+   position: absolute;
+   top: 180px;
+   left: 120px;
+}
+.Alert_x3_y1{   
+   position: absolute;
+   top: 20px;
+   left: 220px;
+}
+.Alert_x3_y2{   
+   position: absolute;
+   top: 40px;
+   left: 220px;
+}
+.Alert_x3_y3{   
+   position: absolute;
+   top: 60px;
+   left: 220px;
+}
+.Alert_x3_y4{   
+   position: absolute;
+   top: 80px;
+   left: 220px;
+}
+.Alert_x3_y5{   
+   position: absolute;
+   top: 100px;
+   left: 220px;
+}
+.Alert_x3_y6{   
+   position: absolute;
+   top: 120px;
+   left: 220px;
+}
+.Alert_x3_y7{   
+   position: absolute;
+   top: 140px;
+   left: 220px;
+}
+.Alert_x3_y8{   
+   position: absolute;
+   top: 160px;
+   left: 220px;
+}
+.Alert_x3_y9{   
+   position: absolute;
+   top: 180px;
+   left: 220px;
+}
+.Alert_x4_y1{   
+   position: absolute;
+   top: 20px;
+   left: 520px;
+}
+.Alert_x4_y2{   
+   position: absolute;
+   top: 40px;
+   left: 420px;
+}
+.Alert_x4_y3{   
+   position: absolute;
+   top: 60px;
+   left: 420px;
+}
+.Alert_x4_y4{   
+   position: absolute;
+   top: 80px;
+   left: 420px;
+}
+.Alert_x4_y5{   
+   position: absolute;
+   top: 100px;
+   left: 420px;
+}
+.Alert_x4_y6{   
+   position: absolute;
+   top: 120px;
+   left: 420px;
+}
+.Alert_x4_y7{   
+   position: absolute;
+   top: 140px;
+   left: 420px;
+}
+.Alert_x4_y8{   
+   position: absolute;
+   top: 160px;
+   left: 420px;
+}
+.Alert_x4_y9{   
+   position: absolute;
+   top: 180px;
+   left: 420px;
+}
+.fire_gun{
+   position: absolute;
+   top: 310px;
+   left: 490px;
+}
+.jump{   
+   position: absolute;
+   top: 310px;
+   left: 540px;
+}
+.bigger{   
+   position: absolute;
+   top: 370px;
+   left: 540px;
+}
+.smaller{   
+   position: absolute;
+   top: 340px;
+   left: 540px;
+}
+.paint_mode{   
+   position: absolute;
+   top: 340px;
+   left: 200px;
+}
+.left{   
+   position: absolute;
+   top: 460px;
+   left: 895px;
+}
+.up{   
+   position: absolute;
+   top: 420px;
+   left: 950px;
+}
+.down{   
+   position: absolute;
+   top: 470px;
+   left: 950px;
+}
+.right{   
+   position: absolute;
+   top: 430px;
+   left: 1005px;
+}
+.yUp{   
+   position: absolute;
+   top: 460px;
+   left: 1005px;
+}
+.yDown{   
+   position: absolute;
+   top: 430px;
+   left: 895px;
+}
+.dirControlBoarder{
+ position: absolute;
+ left: 885px;
+ top:  410px;
+ //position: relative;
+ width: 150px;
+ height: 75px;
+  background: yellow;
+  text-color: red;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  margin-top: 3px;
+  margin-right: auto;
+  margin-bottom: 3px;
+  margin-left: 3px;
+  border-radius: 10px;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+.treeMenu{
+//  color: green;
+  font-size: 12px;
+  border-style: solid;
+  border-color: red;
+  border-width: 1px;
+  border-radius: 6px;
+}
+.getNumBoarder{
+ position: absolute;
+ left: 20px;
+ top:  220px;
+ //position: relative;
+ width: 120px;
+ height: 150px;
+  background: yellow;
+  text-color: red;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  margin-top: 3px;
+  margin-right: auto;
+  margin-bottom: 3px;
+  margin-left: 3px;
+  border-radius: 10px;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+.getNumNumber{   
+   position: absolute;
+   top: 230px;
+   left: 40px;
+}
+.getNum1{   
+   position: absolute;
+   top: 260px;
+   left: 40px;
+}
+.getNum2{   
+   position: absolute;
+   top: 260px;
+   left: 70px;
+}
+.getNum3{   
+   position: absolute;
+   top: 260px;
+   left: 100px;
+}
+.getNum4{   
+   position: absolute;
+   top: 290px;
+   left: 40px;
+}
+.getNum5{   
+   position: absolute;
+   top: 290px;
+   left: 70px;
+}
+.getNum6{   
+   position: absolute;
+   top: 290px;
+   left: 100px;
+}
+.getNum7{   
+   position: absolute;
+   top: 320px;
+   left: 40px;
+}
+.getNum8{   
+   position: absolute;
+   top: 320px;
+   left: 70px;
+}
+.getNum9{   
+   position: absolute;
+   top: 320px;
+   left: 100px;
+}
+.getNumPoint{   
+   position: absolute;
+   top: 350px;
+   left: 40px;
+}
+.getNum0{   
+   position: absolute;
+   top: 350px;
+   left: 70px;
+}
+.getNumEnter{   
+   position: absolute;
+   top: 350px;
+   left: 100px;
+}
+
+.reset{   
+   position: absolute;
+   top: 445px;
+   left: 945px;
+}
+.save{   
+   position: absolute;
+   top: 450px;
+   left: 330px;
+}
+.delete{   
+   position: absolute;
+   top: 450px;
+   left: 440px;
+}
+.colors{   
+   position: absolute;
+   top: 420px;
+   left: 440px;
+}
+.animate{   
+   position: absolute;
+   top: 400px;
+   left: 330px;
+}
+.x1_y1{   
+   position: absolute;
+   top: 410px;
+   left: 20px;
+}
+.x2_y1{   
+   position: absolute;
+   top: 410px;
+   left: 70px;
+}
+.x3_y1{   
+   position: absolute;
+   top: 410px;
+   left: 120px;
+}
+.x4_y1{   
+   position: absolute;
+   top: 410px;
+   left: 170px;
+}
+.x5_y1{   
+   position: absolute;
+   top: 410px;
+   left: 220px;
+}
+.x6_y1{   
+   position: absolute;
+   top: 410px;
+   left: 270px;
+}
+.x7_y1{   
+   position: absolute;
+   top: 410px;
+   left: 320px;
+}
+.x8_y1{   
+   position: absolute;
+   top: 410px;
+   left: 370px;
+}
+.x9_y1{   
+   position: absolute;
+   top: 410px;
+   left: 420px;
+}
+.x1_y2{   
+   position: absolute;
+   top: 440px;
+   left: 20px;
+}
+.x2_y2{   
+   position: absolute;
+   top: 440px;
+   left: 70px;
+}
+.x3_y2{   
+   position: absolute;
+   top: 440px;
+   left: 120px;
+}
+.x4_y2{   
+   position: absolute;
+   top: 440px;
+   left: 170px;
+}
+.x5_y2{   
+   position: absolute;
+   top: 440px;
+   left: 220px;
+}
+.x6_y2{   
+   position: absolute;
+   top: 440px;
+   left: 270px;
+}
+.x7_y2{   
+   position: absolute;
+   top: 440px;
+   left: 320px;
+}
+.x8_y2{   
+   position: absolute;
+   top: 440px;
+   left: 370px;
+}
+.x9_y2{   
+   position: absolute;
+   top: 440px;
+   left: 420px;
+}
+
+.x1_y3{   
+   position: absolute;
+   top: 470px;
+   left: 20px;
+}
+.x2_y3{   
+   position: absolute;
+   top: 470px;
+   left: 70px;
+}
+.x3_y3{   
+   position: absolute;
+   top: 470px;
+   left: 120px;
+}
+.x4_y3{
+   position: absolute;
+   top: 470px;
+   left: 170px;
+}
+.x5_y3{
+   position: absolute;
+   top: 470px;
+   left: 220px;
+}
+.x6_y3{   
+   position: absolute;
+   top: 470px;
+   left: 270px;
+}
+.x7_y3{   
+   position: absolute;
+   top: 470px;
+   left: 320px;
+}
+.x8_y3{
+   position: absolute;
+   top: 470px;
+   left: 370px;
+}
+.x9_y3{
+   position: absolute;
+   top: 470px;
+   left: 420px;
+}
+.x1_y4{   
+   position: absolute;
+   top: 500px;
+   left: 20px;
+}
+.x2_y4{   
+   position: absolute;
+   top: 500px;
+   left: 70px;
+}
+.x3_y4{   
+   position: absolute;
+   top: 500px;
+   left: 120px;
+}
+.x4_y4{
+   position: absolute;
+   top: 500px;
+   left: 170px;
+}
+.x5_y4{
+   position: absolute;
+   top: 500px;
+   left: 220px;
+}
+.x6_y4{   
+   position: absolute;
+   top: 500px;
+   left: 270px;
+}
+.x7_y4{   
+   position: absolute;
+   top: 500px;
+   left: 320px;
+}
+.x8_y4{
+   position: absolute;
+   top: 500px;
+   left: 370px;
+}
+.x9_y4{
+   position: absolute;
+   top: 500px;
+   left: 420px;
+}
+.x1_y5{   
+   position: absolute;
+   top: 530px;
+   left: 20px;
+}
+.x2_y5{   
+   position: absolute;
+   top: 530px;
+   left: 70px;
+}
+.x3_y5{   
+   position: absolute;
+   top: 530px;
+   left: 120px;
+}
+.x4_y5{
+   position: absolute;
+   top: 530px;
+   left: 170px;
+}
+.x5_y5{
+   position: absolute;
+   top: 530px;
+   left: 220px;
+}
+.x6_y5{   
+   position: absolute;
+   top: 530px;
+   left: 270px;
+}
+.x7_y5{   
+   position: absolute;
+   top: 530px;
+   left: 320px;
+}
+.x8_y5{
+   position: absolute;
+   top: 530px;
+   left: 370px;
+}
+.x9_y5{
+   position: absolute;
+   top: 530px;
+   left: 420px;
+}
+.x1_y6{   
+   position: absolute;
+   top: 560px;
+   left: 20px;
+}
+.x2_y6{   
+   position: absolute;
+   top: 560px;
+   left: 70px;
+}
+.x3_y6{   
+   position: absolute;
+   top: 560px;
+   left: 120px;
+}
+.x4_y6{
+   position: absolute;
+   top: 560px;
+   left: 170px;
+}
+.x5_y6{
+   position: absolute;
+   top: 560px;
+   left: 220px;
+}
+.x6_y6{   
+   position: absolute;
+   top: 560px;
+   left: 270px;
+}
+.x7_y6{   
+   position: absolute;
+   top: 560px;
+   left: 320px;
+}
+.x8_y6{
+   position: absolute;
+   top: 560px;
+   left: 370px;
+}
+.x9_y6{
+   position: absolute;
+   top: 560px;
+   left: 420px;
+}
+.x1_y7{   
+   position: absolute;
+   top: 590px;
+   left: 20px;
+}
+.x2_y7{   
+   position: absolute;
+   top: 590px;
+   left: 70px;
+}
+.x3_y7{   
+   position: absolute;
+   top: 590px;
+   left: 120px;
+}
+.x4_y7{
+   position: absolute;
+   top: 590px;
+   left: 170px;
+}
+.x5_y7{
+   position: absolute;
+   top: 590px;
+   left: 220px;
+}
+.x6_y7{   
+   position: absolute;
+   top: 590px;
+   left: 270px;
+}
+.x7_y7{   
+   position: absolute;
+   top: 590px;
+   left: 320px;
+}
+.x8_y7{
+   position: absolute;
+   top: 590px;
+   left: 370px;
+}
+.x9_y7{
+   position: absolute;
+   top: 590px;
+   left: 420px;
+}
+.x1_y8{   
+   position: absolute;
+   top: 620px;
+   left: 20px;
+}
+.x2_y8{   
+   position: absolute;
+   top: 620px;
+   left: 70px;
+}
+.x3_y8{   
+   position: absolute;
+   top: 620px;
+   left: 120px;
+}
+.x4_y8{
+   position: absolute;
+   top: 620px;
+   left: 170px;
+}
+.x5_y8{
+   position: absolute;
+   top: 620px;
+   left: 220px;
+}
+.x6_y8{   
+   position: absolute;
+   top: 620px;
+   left: 270px;
+}
+.x7_y8{   
+   position: absolute;
+   top: 620px;
+   left: 320px;
+}
+.x8_y8{
+   position: absolute;
+   top: 620px;
+   left: 370px;
+}
+.x9_y8{
+   position: absolute;
+   top: 620px;
+   left: 420px;
+}
+.x1_y9{   
+   position: absolute;
+   top: 650px;
+   left: 20px;
+}
+.x2_y9{   
+   position: absolute;
+   top: 650px;
+   left: 70px;
+}
+.x3_y9{   
+   position: absolute;
+   top: 650px;
+   left: 120px;
+}
+.x4_y9{
+   position: absolute;
+   top: 650px;
+   left: 170px;
+}
+.x5_y9{
+   position: absolute;
+   top: 650px;
+   left: 220px;
+}
+.x6_y9{   
+   position: absolute;
+   top: 650px;
+   left: 270px;
+}
+.x7_y9{   
+   position: absolute;
+   top: 650px;
+   left: 320px;
+}
+.x8_y9{
+   position: absolute;
+   top: 650px;
+   left: 370px;
+}
+.x9_y9{
+   position: absolute;
+   top: 650px;
+   left: 420px;
+}
+.myAlert_pos{
+   position: absolute;
+   top: 20px;
+   left: 20px; 
+}
+.myAlert2_pos{
+   position: absolute;
+   top: 40px;
+   left: 20px; 
+}
+.myAlert3_pos{
+   position: absolute;
+   top: 60px;
+   left: 20px; 
+}
+.myAlert4_pos{
+   position: absolute;
+   top: 80px;
+   left: 20px; 
+}
